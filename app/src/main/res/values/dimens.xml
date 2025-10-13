@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Espaciado -->
+    <dimen name="spacing_tiny">4dp</dimen>
+    <dimen name="spacing_small">8dp</dimen>
+    <dimen name="spacing_normal">16dp</dimen>
+    <dimen name="spacing_medium">24dp</dimen>
+    <dimen name="spacing_large">32dp</dimen>
+    <dimen name="spacing_xlarge">48dp</dimen>
+
+    <!-- Tamaños de texto -->
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_normal">14sp</dimen>
+    <dimen name="text_size_medium">16sp</dimen>
+    <dimen name="text_size_large">20sp</dimen>
+    <dimen name="text_size_xlarge">24sp</dimen>
+    <dimen name="text_size_title">32sp</dimen>
+
+    <!-- Radios -->
+    <dimen name="corner_radius_small">8dp</dimen>
+    <dimen name="corner_radius_normal">12dp</dimen>
+    <dimen name="corner_radius_large">16dp</dimen>
+
+    <!-- Elevaciones -->
+    <dimen name="elevation_low">2dp</dimen>
+    <dimen name="elevation_medium">4dp</dimen>
+    <dimen name="elevation_high">8dp</dimen>
+
+    <!-- Avatar -->
+    <dimen name="avatar_size_small">40dp</dimen>
+    <dimen name="avatar_size_medium">56dp</dimen>
+    <dimen name="avatar_size_large">120dp</dimen>
+</resources>
