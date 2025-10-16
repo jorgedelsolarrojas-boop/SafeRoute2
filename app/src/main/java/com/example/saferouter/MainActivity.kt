@@ -44,10 +44,5 @@ class MainActivity : ComponentActivity() {
 
     override fun onStart() {
         super.onStart()
-        if (AuthManager.isUserLoggedIn()) {
-            Log.i("AuthCheck", "✅ Usuario sigue logueado: ${AuthManager.getCurrentUserName()}")
-        } else {
-            Log.i("AuthCheck", "🚫 No hay sesión activa.")
-        }
     }
 }
